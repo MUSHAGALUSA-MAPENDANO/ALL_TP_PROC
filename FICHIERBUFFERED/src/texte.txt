@@ -1,0 +1,7 @@
+             Programmation java
+     ce fichier contient une demonstration des
+flux des donnees dans la programmation java
+permettant d'ecrire les contenus du fichier "texte.txt" 
+dans un autre fichier "fichier.docs" en effacant 
+les contenus du fichier "texte.txt"
+                "ERIC MAPENDANO FILE"
